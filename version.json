@@ -1,4 +1,6 @@
 {
   "version": "1.0.0",
-  "message": "최초 배포"
+  "url": "https://github.com/phantom-0330/spoon-tool/releases/latest/download/gtool.exe",
+  "force": false,
+  "message": "최신 버전이 있습니다."
 }
