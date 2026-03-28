@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.7",
-  "url": "https://github.com/phantom-0330/spoon-tool/releases/download/v1.0.7/gtool.exe",
+  "version": "v1.0.8",
+  "url": "https://github.com/phantom-0330/spoon-tool/releases/download/v1.0.8/gtool.exe",
   "force": false,
   "message": "사운드 매니저 개선, 자동 업데이트 안정화, 보안 강화, 버그수정"
 }
