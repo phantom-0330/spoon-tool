@@ -1,6 +1,7 @@
 {
-  "version": "v1.0.10",
-  "url": "https://github.com/phantom-0330/spoon-tool/releases/download/v1.0.10/gtool.exe",
-  "force": false,
-  "message": "도네이션 추가, 자동 업데이트 안정화, 보안 강화, 버그수정"
+  "version": "v1.0.2",
+  "url": "https://github.com/phantom-0330/spoon-tool/releases/download/v1.0.2/gtool.exe",
+  "force": true,
+  "message": "채팅창, 자동 멘트, 퇴장 감지, 좋아요 10분 제한 및 룰렛 카테고리 기능이 추가되었습니다.",
+  "popup_message": ""
 }
