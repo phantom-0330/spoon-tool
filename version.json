@@ -1,7 +1,7 @@
 {
-  "version": "v1.1.0",
-  "url": "https://github.com/phantom-0330/spoon-tool/releases/download/v1.1.0/gtool.exe",
+  "version": "v1.1.1",
+  "url": "https://github.com/phantom-0330/spoon-tool/releases/download/v1.1.1/gtool.exe",
   "force": true,
-  "message": "채팅창, 자동 멘트, 퇴장 감지, 좋아요 10분 제한 및 룰렛 카테고리 기능이 추가되었습니다.",
+  "message": "뽑기판 1/2/3 분리, 좋아요 쿨다운 유지, 자동 업데이트 오류 방지 기능이 적용되었습니다.",
   "popup_message": ""
 }
